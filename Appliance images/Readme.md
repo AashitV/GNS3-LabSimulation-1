@@ -1,4 +1,4 @@
-### Due to image/iso files being out of size limit, refer the images uploaded on the following cloud links.
+### Due to image/iso files being out of size limit, refer the images uploaded on the following cloud link.
 ### (WARNING: This is for educational purpose only. Use these files at your own risk.)
 
 

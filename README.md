@@ -1,6 +1,6 @@
 # GNS3 Network Simulation Project (Part B)
 
-## Group Project – Multi-Site Enterprise Network  
+## Project : Multi-Site Enterprise Network  
 This project simulates a realistic enterprise network consisting of multiple geographic locations (HQ, Branch, and DMZ), a central firewall, intrusion detection, and honeypots. All routing, switching, and security appliances are emulated using **GNS3**, **Cisco Routers**, **Wireshark**, **FortiGate FIrewall**, **Snort IDS**, **Ubuntu Honeypot**, and **VPCS**.
 
 ---
@@ -11,7 +11,7 @@ This GNS3 topology models a multi-location corporate infrastructure with the fol
 
 - **HQ Site** with two VLAN subnets  
 - **Branch Site** with two VLAN subnets  
-- **DMZ Site** hosting servers and honeypots  
+- **DMZ Site** hosting servers/honeypots  
 - **Main Core Router (R1)** connecting all other sites  
 - **FortiGate firewall** performing NAT, routing, segmentation, and security policies  
 - **Snort IDS** deployed inline at HQ for detection  
@@ -241,5 +241,11 @@ ip route add default via 192.168.10.1
 ## Conclusion
 
 This project demonstrates key enterprise networking & this GNS3 simulation successfully models a multi-site corporate network with segmentation, routing, firewall rules, IDS monitoring, and honeypot security.
+
+---
+## REMARK:
+This project cannot be simply Imported with '.gns' file as it was not Exported as a '.gns3project' file, due to error in exporting few appliances linked to VM.
+
+
 
 

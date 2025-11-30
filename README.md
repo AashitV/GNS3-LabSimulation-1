@@ -26,8 +26,7 @@ The final topology demonstrates real-world enterprise routing, segmentation, tra
 
 ## 2. Final Network Diagram
 
-
-<img width="1067" height="702" alt="image" src="https://github.com/user-attachments/assets/b2e2bb5f-48a7-4e10-87a7-e8058a28b9fb" />
+<img width="1055" height="700" alt="image" src="https://github.com/user-attachments/assets/fdcf6e84-07a4-4311-a0aa-5ca1586a03ca" />
 
 
 Network architecture reference:
